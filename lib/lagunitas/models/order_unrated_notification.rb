@@ -1,0 +1,2 @@
+class OrderUnratedNotification < OrderNotification
+end

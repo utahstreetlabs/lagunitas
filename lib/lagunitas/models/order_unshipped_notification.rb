@@ -1,0 +1,2 @@
+class OrderUnshippedNotification < OrderNotification
+end
